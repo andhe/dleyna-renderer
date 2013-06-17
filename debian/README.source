@@ -1,0 +1,6 @@
+dleyna-renderer for Debian
+----------------------
+
+This package is maintained in a git repository and can be built with
+the git-buildpackage tools.
+
